@@ -1,3 +1,4 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/yanxel18/Kronos-System.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/yanxel18/Kronos-System/alerts/)
 # Kronos-System
 # Background
 The company uses manual white bulletin board to go in and out of the company.
